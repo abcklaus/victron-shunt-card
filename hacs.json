@@ -1,0 +1,6 @@
+{
+  "name": "Victron Shunt Card",
+  "filename": "victron-shunt-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.8.0"
+}

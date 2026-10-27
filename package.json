@@ -1,0 +1,10 @@
+{
+  "name": "victron-shunt-card",
+  "version": "1.0.0",
+  "description": "Home Assistant Lovelace-Karte für Victron SmartShunt / Batteriemonitore",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "license": "MIT"
+}
